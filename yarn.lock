@@ -1039,10 +1039,10 @@
   resolved "https://registry.yarnpkg.com/@types/yargs/-/yargs-12.0.12.tgz#45dd1d0638e8c8f153e87d296907659296873916"
   integrity sha512-SOhuU4wNBxhhTHxYaiG5NY4HBhDIDnJF60GU+2LqHAdKKer86//e4yg69aENCtQ04n0ovz+tq2YPME5t5yp4pw==
 
-"@zumper/babel-preset-react-app@^7.0.2-zumper.8":
-  version "7.0.2-zumper.8"
-  resolved "https://registry.yarnpkg.com/@zumper/babel-preset-react-app/-/babel-preset-react-app-7.0.2-zumper.8.tgz#d05a79c87f988d64d47654fafe8c202803961cfa"
-  integrity sha512-7D4pEeQgri0DZyUSmWZ4EeN2d9Vk0zSl6FPeWO463owIqwyMGpaaTnoPukO6KS7CfyQ85w83birU3PJsFLSenw==
+"@zumper/babel-preset-react-app@7.0.2-zumper.7":
+  version "7.0.2-zumper.7"
+  resolved "https://registry.yarnpkg.com/@zumper/babel-preset-react-app/-/babel-preset-react-app-7.0.2-zumper.7.tgz#bba080144ac319ab460a6d018a4a6eddf535ca39"
+  integrity sha512-EdA84BrDP8VtZFzHQ0By8FAdRHNk7cOlBhGYHYqAI3OGF/WcSfj7jJcZDXZ/MKOAOzhmpsyEl4mI6JsOvNLHwg==
   dependencies:
     "@babel/core" "7.2.2"
     "@babel/plugin-proposal-class-properties" "7.3.0"

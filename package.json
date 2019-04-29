@@ -46,7 +46,7 @@
   "devDependencies": {
     "@babel/cli": "^7.4.4",
     "@babel/core": "^7.4.4",
-    "@zumper/babel-preset-react-app": "^7.0.2-zumper.8",
+    "@zumper/babel-preset-react-app": "7.0.2-zumper.7",
     "babel-eslint": "^10.0.1",
     "babel-jest": "^24.7.1",
     "cross-env": "^5.2.0",
