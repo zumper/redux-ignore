@@ -81,5 +81,29 @@
     "rollup-plugin-node-resolve": "^4.2.3",
     "rollup-plugin-replace": "^2.2.0",
     "rollup-plugin-terser": "^4.0.4"
+  },
+  "jest": {
+    "collectCoverageFrom": [
+      "src/**/*.{js,jsx,ts,tsx}",
+      "!src/**/*.d.ts"
+    ],
+    "coverageDirectory": "<rootDir>/coverage/",
+    "coveragePathIgnorePatterns": [
+      "<rootDir>/dist",
+      "<rootDir>/es",
+      "<rootDir>/lib",
+      "<rootDir>/node_modules"
+    ],
+    "resolver": "jest-pnp-resolver",
+    "testMatch": [
+      "<rootDir>/test/**/*.spec.js"
+    ],
+    "testPathIgnorePatterns": [
+      "<rootDir>/dist",
+      "<rootDir>/es",
+      "<rootDir>/lib",
+      "<rootDir>/node_modules"
+    ],
+    "testURL": "https://localhost"
   }
 }
